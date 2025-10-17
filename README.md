@@ -1,16 +1,18 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
    <h3 align="center">
-     Hi, I'm Rodrigo Chacón
+     Rodrigo Chacón
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 </div>
 
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+# 💫 About Me:
+👨‍💻 Estudiante de Ingeniería Informática<br>🔧 Principiante en Desarrollo de Software | En formación en proyectos IoT<br><br>💡 Apasionado por la tecnología y la innovación, disfruto aprender nuevas herramientas que impulsen la creación de soluciones prácticas.<br>🌐 Participo en el rediseño de páginas web y colaboro en proyectos tecnológicos.<br>🤝 Me motiva trabajar en equipo, compartir conocimientos y seguir creciendo en el ámbito de la ingeniería informática.<br><br>🌱 Siempre buscando mejorar y asumir nuevos desafíos.
+
+## 🌐 Redes Sociales:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-alessandro-chacón-uscamaita-483254281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodrigochacon2064@gmail.com) 
 
 ## 🛠 &nbsp;Tecnologías
 
@@ -34,7 +36,8 @@
 
  <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=TailerRC&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
+![](https://github-readme-stats.vercel.app/api?username=TailerRC&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TailerRC&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TailerRC&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
