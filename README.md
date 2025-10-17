@@ -35,7 +35,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 Estadisticas:
+# 📊 Estadísticas:
  <div align=center>
 
    ![](https://github-readme-stats.vercel.app/api?username=TailerRC&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
