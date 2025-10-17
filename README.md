@@ -35,8 +35,8 @@
 
 # 📊 Estadisticas:
  <div align=center>
-![](https://github-readme-stats.vercel.app/api?username=TailerRC&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
-<br><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TailerRC&theme=gruvbox&hide_border=false)
-<br><br/>
+
+![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<br>
+
 </div>
