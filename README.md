@@ -12,7 +12,9 @@
 👨‍💻 Estudiante de Ingeniería Informática<br>🔧 Principiante en Desarrollo de Software | En formación en proyectos IoT<br><br>💡 Apasionado por la tecnología y la innovación, disfruto aprender nuevas herramientas que impulsen la creación de soluciones prácticas.<br>🌐 Participo en el rediseño de páginas web y colaboro en proyectos tecnológicos.<br>🤝 Me motiva trabajar en equipo, compartir conocimientos y seguir creciendo en el ámbito de la ingeniería informática.<br><br>🌱 Siempre buscando mejorar y asumir nuevos desafíos.
 
 ## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-alessandro-chacón-uscamaita-483254281) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-alessandro-chacón-uscamaita-483254281)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rodri.chacon.92) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigo_chacon06) 
 <p>:e-mail: Gmail: rodrigochacon2064@gmail.com</p>
 
 ## 🛠 &nbsp;Tecnologías
@@ -42,7 +44,3 @@
    <br><br/>
 
 </div>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TailerRC&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
