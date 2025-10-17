@@ -13,7 +13,7 @@
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-alessandro-chacón-uscamaita-483254281) 
-:e-mail: Gmail: rodrigochacon2064@gmail.com
+<p>:e-mail: Gmail: rodrigochacon2064@gmail.com</p>
 
 ## 🛠 &nbsp;Tecnologías
 
