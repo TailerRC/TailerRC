@@ -10,7 +10,7 @@ Estudiante de 8vo ciclo de Ingeniería Informática, de 20 años, con 1 año de 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-alessandro-chacón-uscamaita-483254281)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rodri.chacon.92) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tailer_rodrigo_06/) 
-<p>:e-mail: Gmail: rodrigochacon2064@gmail.com</p>
+<p>Gmail: rodrigochacon2064@gmail.com</p>
 
 ## 🛠 &nbsp;Tecnologías
 
