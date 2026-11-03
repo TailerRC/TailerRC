@@ -45,5 +45,3 @@ Estudiante de 8vo ciclo de Ingeniería Informática, de 20 años, con 1 año de 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-[![GitHubCard](https://githubcard.com/TailerRC.svg)](https://githubcard.com/TailerRC/card?utm_source=github&utm_medium=readme)
