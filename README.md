@@ -12,7 +12,7 @@ Estudiante de 8vo ciclo de Ingeniería Informática, de 20 años, con 1 año de 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tailer_rodrigo_06/) 
 <p>Gmail: rodrigochacon2064@gmail.com</p>
 
-## 🛠 &nbsp;Tecnologías
+## Tecnologías
 
 #### Lenguajes
 
